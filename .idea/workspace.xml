@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70965ac6-5e1f-44c0-9f46-917459916263" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pack1/RestAssuredTestArticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pack1/RestAssuredTestArticle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,25 +24,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="582" />
-          <entry key="xml" value="15" />
+          <entry key="java" value="1079" />
+          <entry key="xml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="582" />
-          <entry key="XML" value="15" />
+          <entry key="JAVA" value="1079" />
+          <entry key="XML" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
+          <entry key="class" value="3" />
           <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
+          <entry key="CLASS" value="3" />
           <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="789">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -61,11 +62,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pack1/RestAssuredTestArticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="451">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.1.1/rest-assured-3.1.1.jar!/io/restassured/response/ResponseBodyExtractionOptions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -86,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/source_pack/ResponseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            <state relative-caret-position="459">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1123#1139#0" expanded="true" />
@@ -103,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/source_pack/Translations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#280#296#0" expanded="true" />
@@ -139,11 +149,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pack1/ResponseClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/ResponseClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/source_pack/ResponseClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/source_pack/Translations.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pack1/RestAssuredTestArticle.java" />
       </list>
     </option>
@@ -230,7 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539165712865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539182339524" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -253,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RestAssuredTestArticle">
+  <component name="RunManager" selected="JUnit.RestAssuredTestArticle.getRequestExampleTest">
     <configuration name="RestAssuredTestArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
@@ -307,8 +317,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RestAssuredTestArticle" />
         <item itemvalue="JUnit.RestAssuredTestArticle.getRequestExampleTest" />
+        <item itemvalue="JUnit.RestAssuredTestArticle" />
         <item itemvalue="JUnit.RestAssuredTestArticle.postRequestExampleTest" />
       </list>
     </recent_temporary>
@@ -327,15 +337,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.09 at 18h 22m 58s.xml">
-      <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.09 at 18h 37m 31s.xml">
-      <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.09 at 18h 38m 49s.xml">
-      <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.09 at 18h 42m 42s.xml">
       <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
     </history-entry>
@@ -356,6 +357,15 @@
     </history-entry>
     <history-entry file="RestAssuredTestArticle - 2018.10.10 at 12h 53m 48s.xml">
       <configuration name="RestAssuredTestArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.10 at 14h 33m 03s.xml">
+      <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.10 at 14h 51m 05s.xml">
+      <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestAssuredTestArticle_getRequestExampleTest - 2018.10.10 at 17h 09m 40s.xml">
+      <configuration name="RestAssuredTestArticle.getRequestExampleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -400,17 +410,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="208" selection-start-line="208" selection-end-line="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.1.1/rest-assured-3.1.1.jar!/io/restassured/response/ResponseBodyExtractionOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -427,8 +444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/source_pack/ResponseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="459">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1123#1139#0" expanded="true" />
@@ -442,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/source_pack/Translations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#280#296#0" expanded="true" />
@@ -457,8 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pack1/RestAssuredTestArticle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="451">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
